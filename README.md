@@ -1,2 +1,2 @@
 # Hall-Booking-ChatBot
-AI based chat bot made for making and cancelling existing hall reservations.
+AI based chat bot made for making new booking and cancelling existing hall reservations.
